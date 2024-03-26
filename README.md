@@ -21,6 +21,7 @@
 
 - [Folder Structure](#folder-structure)
 - [About](#about)
+- [Common Instructions:](#common-instructions)
 - [Mandatory Part Details](#mandatory-part-details)
 - [Specific Rules for the Mandatory Part](#specific-rules-for-the-mandatory-part)
 - [Program Parameters](#program-parameters)
@@ -71,7 +72,7 @@ The Philosophers project is not just about coding, but also about understanding 
 </p>
 
 
-**Common Instructions:**
+## Common Instructions:
 
 <p align="justify">
 

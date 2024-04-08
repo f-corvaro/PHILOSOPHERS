@@ -1,11 +1,7 @@
-<h1 align="center">PHILOSOPHERS</h1>
-
-<p align="center">
-  <a href="https://github.com/f-corvaro/PHILOSOPHERS">
+<h1 align="center"><a href="https://github.com/f-corvaro/PHILOSOPHERS">
 	<img src="https://github.com/f-corvaro/PHILOSOPHERS/blob/main/.extra/philosophers.png" alt="PHILOSOPHERS">
-  </a>
-</p>
-
+  </a></h1>
+  
 <p align="center">
 	<b><i>"Dive into the world of concurrency with Philosophers, a project that explores the dining philosophers problem."</i></b><br>
 </p>

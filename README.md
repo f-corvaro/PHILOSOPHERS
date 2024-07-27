@@ -15,46 +15,43 @@
 
 <h3 align="center">Index</h3>
 <p align="center">
-
-
-- [Introduction](#introduction)
-  - [Overview](#overview)
-- [Folder Structure](#folder-structure)
-- [Project Requirements - Mandatory Part](#project-requirements---mandatory-part)
-  - [Important Guidelines](#important-guidelines)
-  - [Specific Rules for the Mandatory Part](#specific-rules-for-the-mandatory-part)
-  - [Philosopher Seating Arrangement](#philosopher-seating-arrangement)
-  - [Program name](#program-name)
-    - [Usage](#usage)
-    - [Program Parameters](#program-parameters)
-  - [Files to Submit](#files-to-submit)
-  - [Allowed External Functions](#allowed-external-functions)
-  - [Log Format](#log-format)
-  - [Output Requirements](#output-requirements)
-- [Project Requirements - Bonus Part](#project-requirements---bonus-part)
-  - [Specific Rules for the Bonus Part](#specific-rules-for-the-bonus-part)
-  - [Program name'](#program-name-1)
-    - [Usage](#usage-1)
-    - [Program Parameters](#program-parameters-1)
-  - [Files to Submit](#files-to-submit-1)
-  - [Allowed External Functions](#allowed-external-functions-1)
-- [Theoretical Background](#theoretical-background)
-  - [Threads](#threads)
-  - [Task Scheduler](#task-scheduler)
-  - [Process](#process)
-  - [Inter-Process Communication (IPC)](#inter-process-communication-ipc)
-  - [Differences between Process and Thread](#differences-between-process-and-thread)
-  - [Concurrency: Multithreading vs Multiprocessing](#concurrency-multithreading-vs-multiprocessing)
-    - [Common Problems in Concurrent Programming](#common-problems-in-concurrent-programming)
-    - [Synchronization - Mutex and Semaphore](#synchronization---mutex-and-semaphore)
-- [Testing Tools for the Philosophers Project](#testing-tools-for-the-philosophers-project)
-- [Evaluation Process](#evaluation-process)
-  - [Correction sheet](#correction-sheet)
-- [Developed Skills](#developed-skills)
-- [References](#references)
-- [Support and Contributions](#support-and-contributions)
-- [Author](#author)
-
+ <a href="#introduction">Introduction</a><br>
+ <a href="#overview">Overview</a><br>
+ <a href="#folder-structure">Folder Structure</a><br>
+ <a href="#project-requirements---mandatory-part">Project Requirements - Mandatory Part</a><br>
+ <a href="#important-guidelines">Important Guidelines</a><br>
+ <a href="#specific-rules-for-the-mandatory-part">Specific Rules for the Mandatory Part</a><br>
+ <a href="#philosopher-seating-arrangement">Philosopher Seating Arrangement</a><br>
+ <a href="#program-name">Program name</a><br>
+ <a href="#usage">Usage</a><br>
+ <a href="#program-parameters">Program Parameters</a><br>
+ <a href="#files-to-submit">Files to Submit</a><br>
+ <a href="#allowed-external-functions">Allowed External Functions</a><br>
+ <a href="#log-format">Log Format</a><br>
+ <a href="#output-requirements">Output Requirements</a><br>
+ <a href="#project-requirements---bonus-part">Project Requirements - Bonus Part</a><br>
+ <a href="#specific-rules-for-the-bonus-part">Specific Rules for the Bonus Part</a><br>
+ <a href="#program-name-1">Program name</a><br>
+ <a href="#usage-1">Usage</a><br>
+ <a href="#program-parameters-1">Program Parameters</a><br>
+ <a href="#files-to-submit-1">Files to Submit</a><br>
+ <a href="#allowed-external-functions-1">Allowed External Functions</a><br>
+ <a href="#theoretical-background">Theoretical Background</a><br>
+ <a href="#threads">Threads</a><br>
+ <a href="#task-scheduler">Task Scheduler</a><br>
+ <a href="#process">Process</a><br>
+ <a href="#inter-process-communication-ipc">Inter-Process Communication (IPC)</a><br>
+ <a href="#differences-between-process-and-thread">Differences between Process and Thread</a><br>
+ <a href="#concurrency-multithreading-vs-multiprocessing">Concurrency: Multithreading vs Multiprocessing</a><br>
+ <a href="#common-problems-in-concurrent-programming">Common Problems in Concurrent Programming</a><br>
+ <a href="#synchronization---mutex-and-semaphore">Synchronization - Mutex and Semaphore</a><br>
+ <a href="#testing-tools-for-the-philosophers-project">Testing Tools for the Philosophers Project</a><br>
+ <a href="#evaluation-process">Evaluation Process</a><br>
+ <a href="#correction-sheet">Correction sheet</a><br>
+ <a href="#developed-skills">Developed Skills</a><br>
+ <a href="#references">References</a><br>
+ <a href="#support-and-contributions">Support and Contributions</a><br>
+ <a href="#author">Author</a><br>
 </p>
 <br>
 
@@ -375,6 +372,7 @@ A **monitor** is a synchronization construct that provides mutual exclusion and 
 
 ### Correction sheet
 
+<p align="center">
 <a href="https://github.com/f-corvaro/PHILOSOPHERS/tree/main"><img width="650" src="https://github.com/f-corvaro/PHILOSOPHERS/blob/main/.extra/philo_cs.jpg">
 
 </p>
@@ -399,10 +397,6 @@ A **monitor** is a synchronization construct that provides mutual exclusion and 
 - [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/): A comprehensive tutorial on POSIX threads (pthreads).
 - [Mutexes and Condition Variables](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html): Detailed information on mutexes and condition variables in pthreads.
 - [Dining Philosophers Problem on GeeksforGeeks](https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/): An article explaining the Dining Philosophers problem using semaphores.
-- [Concurrency Patterns](https://martinfowler.com/articles/lmax.html): An article discussing various concurrency patterns and their applications.
-- [Deadlock in Operating Systems](https://www.geeksforgeeks.org/deadlock-in-operating-system/): An overview of deadlock conditions and how to handle them in operating systems.
-- [Understanding Race Conditions](https://en.wikipedia.org/wiki/Race_condition): An explanation of race conditions and their impact on concurrent programming.
-
 <br>
 
 ## Support and Contributions

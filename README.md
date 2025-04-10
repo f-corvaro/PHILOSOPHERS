@@ -6,7 +6,6 @@
 	<b><i>"Dive into the world of concurrency with Philosophers, a project that explores the dining philosophers problem."</i></b><br>
 </p>
 <p align="center" style="text-decoration: none;">
-    <a href="https://github.com/f-corvaro/PHILOSOPHERS/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-PHILOSOPHERS-yellow" /></a>
     <a href="https://github.com/f-corvaro/PHILOSOPHERS"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/PHILOSOPHERS?color=blueviolet" /></a>
     <a href="https://github.com/f-corvaro/PHILOSOPHERS"><img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/PHILOSOPHERS?color=yellow" /></a>
     <a href="https://github.com/f-corvaro/PHILOSOPHERS"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/PHILOSOPHERS?color=blueviolet" /></a>
@@ -46,8 +45,6 @@
  <a href="#common-problems-in-concurrent-programming">Common Problems in Concurrent Programming</a><br>
  <a href="#synchronization---mutex-and-semaphore">Synchronization - Mutex and Semaphore</a><br>
  <a href="#testing-tools-for-the-philosophers-project">Testing Tools for the Philosophers Project</a><br>
- <a href="#evaluation-process">Evaluation Process</a><br>
- <a href="#correction-sheet">Correction sheet</a><br>
  <a href="#developed-skills">Developed Skills</a><br>
  <a href="#references">References</a><br>
  <a href="#support-and-contributions">Support and Contributions</a><br>
@@ -367,16 +364,6 @@ A **monitor** is a synchronization construct that provides mutual exclusion and 
 - [Philosophers Tester by Aldisti](https://github.com/Aldisti/philosophers-tester): Another useful tester for the Philosophers project, offering a range of scenarios to validate your code.
 - [Philosophers Tester by moulin-louis](https://github.com/moulin-louis/philosophers-tester): A detailed tester designed to help you debug and verify your Philosophers project.
 - [Philosophers Tester by Yoo0lh](https://github.com/Yoo0lh/philosopher_tester): A robust tester for the Philosophers project, featuring multiple test cases to check the reliability of your solution.
-
-## Evaluation Process
-
-### Correction sheet
-
-<p align="center">
-<a href="https://github.com/f-corvaro/PHILOSOPHERS/tree/main"><img width="650" src="https://github.com/f-corvaro/PHILOSOPHERS/blob/main/.extra/philo_cs.jpg">
-
-</p>
-<br>
 
 ## Developed Skills
 
